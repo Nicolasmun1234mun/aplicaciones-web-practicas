@@ -1,4 +1,4 @@
-<img width="269" height="155" alt="imagen" src="https://github.com/user-attachments/assets/aedcd0eb-9a11-4962-9a29-98dbae005d9c" />  Añadida memoria práctica 1
+
 
 
                   <!--Aqui voy a escribi funciones puestas por Eva para pracicar -->
