@@ -1,4 +1,4 @@
-  Añadida memoria práctica 1
+<img width="269" height="155" alt="imagen" src="https://github.com/user-attachments/assets/aedcd0eb-9a11-4962-9a29-98dbae005d9c" />  Añadida memoria práctica 1
 
 
                   <!--Aqui voy a escribi funciones puestas por Eva para pracicar -->
@@ -21,16 +21,16 @@
 2. Segundo paso
 3. Tercer paso
 
-[Texto del enlace](https://www.direccion-del-enlace.com)
-
 [Memoria de la práctica 1](./practica-01-html-basico/memoria.md)
 
-![Texto alternativo](ruta-o-url-de-la-imagen.png)
+![Foto anakin](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.disneylatino.com%2Fnovedades%2Fstar-wars-cual-es-la-historia-de-anakin-skywalker&ved=0CBYQjRxqFwoTCNiEjpKXhJcDFQAAAAAdAAAAABAL&opi=89978449)
 
 Bloques de código: usa tres comillas invertidas, indicando el lenguaje.
 
 ```html
 <h1>Hola mundo</h1>
+
+Para centrar un elemento se usa la propiedad `NICO`.
 
 > Esto es una cita o una nota destacada.
 
