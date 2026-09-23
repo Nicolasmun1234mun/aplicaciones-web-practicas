@@ -5,6 +5,6 @@ Repositorio con las memorias de las prácticas del módulo de Aplicaciones Web.
 ## Índice de prácticas
 | Nº | Práctica | Memoria|
 |----|----------------------------|------------------------------------------------------|
-| 1  | Introducción a HTML básico | [Ver memoria](https://github.com/Nicolasmun1234mun/aplicaciones-web-practicas/blob/main/memoria.md) |
+| 1  | Introducción a HTML básico | [Ver memoria](https://github.com/Nicolasmun1234mun/aplicaciones-web-practicas/blob/main/ractica-01-html-%20basico/memoria.md) |
 
 
