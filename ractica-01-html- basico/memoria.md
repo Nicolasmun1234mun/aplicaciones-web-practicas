@@ -27,8 +27,7 @@
 
 Bloques de código: usa tres comillas invertidas, indicando el lenguaje.
 
-```html
-<h1>Hola mundo</h1>
+```html <h1>Hola mundo</h1>
 
 Para centrar un elemento se usa la propiedad `NICO`.
 
