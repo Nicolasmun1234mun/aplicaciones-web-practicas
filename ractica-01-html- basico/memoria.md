@@ -23,7 +23,7 @@
 
 [Memoria de la práctica 1](./practica-01-html-basico/memoria.md)
 
-![Foto anakin]([https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.disneylatino.com%2Fnovedades%2Fstar-wars-cual-es-la-historia-de-anakin-skywalker&ved=0CBYQjRxqFwoTCNiEjpKXhJcDFQAAAAAdAAAAABAL&opi=89978449](https://lumiere-a.akamaihd.net/v1/images/anakin_skywalker_003_fbc652cd.jpeg?region=0,0,1379,809))
+![anakin](https://lumiere-a.akamaihd.net/v1/images/anakin_skywalker_003_fbc652cd.jpeg?region=0,0,1379,809)
 
 Bloques de código: usa tres comillas invertidas, indicando el lenguaje.
 
