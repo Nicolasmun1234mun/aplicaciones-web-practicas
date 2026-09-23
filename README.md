@@ -1,7 +1,7 @@
 # Prácticas de Aplicaciones Web
 Repositorio con las memorias de las prácticas del módulo de Aplicaciones Web.
-**Alumno/a:** Nombre Apellido
-**Curso:** 1º SMR
+**Alumno/a:** Nicolás Muñoz Navarro
+**Curso:** 2º SMR
 ## Índice de prácticas
 | Nº | Práctica | Memoria|
 |----|----------------------------|------------------------------------------------------|
